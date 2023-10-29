@@ -4,14 +4,11 @@ using System.Security.Cryptography;
 
 namespace BackupAutomation;
 
-public class MenuHandler
+public static class MenuHandler
 {
-    public MenuHandler()
-    {
-        Console.CursorVisible = false; 
-    }
     public static void DisplayOptions(List<string> options, string path)
     {
+        Console.CursorVisible = false;
         if (options.Count == 0)
         {
             Console.WriteLine("There are no backup files");
