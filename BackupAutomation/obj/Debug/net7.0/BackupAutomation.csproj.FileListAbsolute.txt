@@ -1,0 +1,14 @@
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/bin/Debug/net7.0/BackupAutomation
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/bin/Debug/net7.0/BackupAutomation.deps.json
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/bin/Debug/net7.0/BackupAutomation.runtimeconfig.json
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/bin/Debug/net7.0/BackupAutomation.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/bin/Debug/net7.0/BackupAutomation.pdb
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.AssemblyInfoInputs.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.AssemblyInfo.cs
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.csproj.CoreCompileInputs.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/refint/BackupAutomation.dll
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.pdb
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/BackupAutomation.genruntimeconfig.cache
+/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/Debug/net7.0/ref/BackupAutomation.dll
