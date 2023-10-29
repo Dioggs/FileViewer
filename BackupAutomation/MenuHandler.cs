@@ -6,9 +6,12 @@ namespace BackupAutomation;
 
 public class MenuHandler
 {
-    public static void DisplayOptions(List<string> options, string path)
+    public MenuHandler()
     {
         Console.CursorVisible = false; 
+    }
+    public static void DisplayOptions(List<string> options, string path)
+    {
         if (options.Count == 0)
         {
             Console.WriteLine("There are no backup files");
@@ -54,8 +57,7 @@ public class MenuHandler
         Console.BackgroundColor = ConsoleColor.White;
         Console.ForegroundColor = ConsoleColor.Black;
         Console.WriteLine(option);
-        Console.BackgroundColor = ConsoleColor.Black;
-        Console.ForegroundColor = ConsoleColor.White;
+        Console.ResetColor();
     }
 
     private static int GetUserInput(int paintPosition, List<string> options, string path, out string content)
@@ -82,6 +84,7 @@ public class MenuHandler
 
         if (keyInfo.Key == ConsoleKey.X)
         {
+            Console.CursorVisible = true; 
             content = "";
             return -1;
         }

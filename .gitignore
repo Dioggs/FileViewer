@@ -3,8 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 .idea
-#./bin
-#./obj
+./BackupAutomation/bin
+./BackupAutomation/obj
 
 
 # User-specific files

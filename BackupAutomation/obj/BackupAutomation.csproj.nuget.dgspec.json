@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/BackupAutomation.csproj": {}
+    "/home/diogoaraldo/Desktop/Projects/BackupAutomation/BackupAutomation/BackupAutomation.csproj": {}
   },
   "projects": {
-    "/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/BackupAutomation.csproj": {
+    "/home/diogoaraldo/Desktop/Projects/BackupAutomation/BackupAutomation/BackupAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/BackupAutomation.csproj",
+        "projectUniqueName": "/home/diogoaraldo/Desktop/Projects/BackupAutomation/BackupAutomation/BackupAutomation.csproj",
         "projectName": "BackupAutomation",
-        "projectPath": "/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/BackupAutomation.csproj",
+        "projectPath": "/home/diogoaraldo/Desktop/Projects/BackupAutomation/BackupAutomation/BackupAutomation.csproj",
         "packagesPath": "/home/diogoaraldo/.nuget/packages/",
-        "outputPath": "/home/diogoaraldo/Desktop/Study/StudyProjects/BackupAutomation/BackupAutomation/obj/",
+        "outputPath": "/home/diogoaraldo/Desktop/Projects/BackupAutomation/BackupAutomation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/diogoaraldo/.nuget/NuGet/NuGet.Config"
